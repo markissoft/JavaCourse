@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\Markiyan\source\repos\NumberSystems\NumberSystems\MyForm.h(231,1): warning C4244: '+=': conversion from 'double' to 'long', possible loss of data
+C:\Users\Markiyan\source\repos\NumberSystems\NumberSystems\MyForm.cpp(6,32): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  NumberSystems.vcxproj -> C:\Users\Markiyan\source\repos\NumberSystems\Debug\NumberSystems.exe
