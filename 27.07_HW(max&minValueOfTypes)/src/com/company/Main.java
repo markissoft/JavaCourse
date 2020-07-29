@@ -8,13 +8,13 @@ public class Main {
     public static void main(String[] args) {
 
         /* №1 */
-        byte   variable1 = 127;
-        short  variable2 = 32767;
-        char   variable3 = '捨';
-        int    variable4 = 2147483647;
-        long   variable5 = 922337203;
-        float  variable6 = 3.4028235E38f;
-        double variable7 = 1.7976931348623157E308;
+        byte   i1 = 127;
+        short  i2 = 32767;
+        char   i3 = '捨';
+        int    i4 = 2147483647;
+        long   i5 = 922337203;
+        float  i6 = 3.4028235E38f;
+        double i7 = 1.7976931348623157E308;
 
         /* №2 */
         // Boolean does not have Boolean.SIZE, Boolean.MIN_VALUE, or Boolean.MAX_VALUE
