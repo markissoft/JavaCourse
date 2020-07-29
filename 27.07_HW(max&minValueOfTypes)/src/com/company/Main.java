@@ -16,6 +16,10 @@ public class Main {
         float  i6 = 3.4028235E38f;
         double i7 = 1.7976931348623157E308;
 
+        double emmi7 = 1.7976931348623157E308;
+        double dmmi7 = 1.7976931348623157E308;
+        double cmmi7 = 1.7976931348623157E308;
+
         /* №2 */
         // Boolean does not have Boolean.SIZE, Boolean.MIN_VALUE, or Boolean.MAX_VALUE
         displaySizeMinAndMax(Byte.TYPE, Byte.SIZE, Byte.MIN_VALUE, Byte.MAX_VALUE);
