@@ -1,3 +1,0 @@
-C:\Users\Markiyan\source\repos\NumberSystems\NumberSystems\Debug\NumberSystems.vcxprojAssemblyReference.cache
-C:\Users\Markiyan\source\repos\NumberSystems\NumberSystems\Debug\NumberSystems.MyForm.resources
-C:\Users\Markiyan\source\repos\NumberSystems\NumberSystems\Debug\NumberSystems.vcxproj.GenerateResource.cache
