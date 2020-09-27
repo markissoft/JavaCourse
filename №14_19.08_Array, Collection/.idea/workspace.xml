@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="442a1f4f-4cdc-45c1-a7c0-72bcf1e9882c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../№10_10.08_Solid,Aircraft/№1 Main/Aircraft.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№10_10.08_Solid,Aircraft/№1 Main/Aircraft.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№10_10.08_Solid,Aircraft/№1 Main/AircraftControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№10_10.08_Solid,Aircraft/№1 Main/AircraftControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№10_10.08_Solid,Aircraft/№1 Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№10_10.08_Solid,Aircraft/№1 Main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№10_10.08_Solid,Aircraft/№1 Main/Special.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№10_10.08_Solid,Aircraft/№1 Main/Special.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№10_10.08_Solid,Aircraft/№1 Main/Su_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№10_10.08_Solid,Aircraft/№1 Main/Su_27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№1_17.07_NumberSystems.cpp/№2 Additional/MyForm.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../№1_17.07_NumberSystems.cpp/№2 Additional/MyForm.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№1_17.07_NumberSystems.cpp/№2 Additional/MyForm.h" beforeDir="false" afterPath="$PROJECT_DIR$/../№1_17.07_NumberSystems.cpp/№2 Additional/MyForm.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№2_20.07_GCD&amp;LCM/№1 Lesson(GCD)/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№2_20.07_GCD&amp;LCM/№1 Lesson(GCD)/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№2_20.07_GCD&amp;LCM/№2 HW(GCD&amp;LCM)/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№2_20.07_GCD&amp;LCM/№2 HW(GCD&amp;LCM)/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№3_22.07_Notes&amp;JavaFX/№1 Main/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№3_22.07_Notes&amp;JavaFX/№1 Main/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№3_22.07_Notes&amp;JavaFX/№1 Main/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№3_22.07_Notes&amp;JavaFX/№1 Main/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№3_22.07_Notes&amp;JavaFX/№1 Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№3_22.07_Notes&amp;JavaFX/№1 Main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№3_22.07_Notes&amp;JavaFX/№1 Main/data.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№3_22.07_Notes&amp;JavaFX/№1 Main/data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№4_24.07_TypesOfSorting/№1 Lesson(5tasks)/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№4_24.07_TypesOfSorting/№1 Lesson(5tasks)/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№4_24.07_TypesOfSorting/№2 HW(3typesOfSorting)/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№4_24.07_TypesOfSorting/№2 HW(3typesOfSorting)/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№5_27.07_Max&amp;MinValue,SortStream/№1 Main(Max&amp;MinValues)/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№5_27.07_Max&amp;MinValue,SortStream/№1 Main(Max&amp;MinValues)/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№5_27.07_Max&amp;MinValue,SortStream/№2 Additional(SortStream)/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№5_27.07_Max&amp;MinValue,SortStream/№2 Additional(SortStream)/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№6_31.07_Circle&amp;Rectangle/№1 Main/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№6_31.07_Circle&amp;Rectangle/№1 Main/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№6_31.07_Circle&amp;Rectangle/№1 Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№6_31.07_Circle&amp;Rectangle/№1 Main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№6_31.07_Circle&amp;Rectangle/№1 Main/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№6_31.07_Circle&amp;Rectangle/№1 Main/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№7_03.08_Robots,Composition/№1 Main/CoffeeRobot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№7_03.08_Robots,Composition/№1 Main/CoffeeRobot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№7_03.08_Robots,Composition/№1 Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№7_03.08_Robots,Composition/№1 Main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№7_03.08_Robots,Composition/№1 Main/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№7_03.08_Robots,Composition/№1 Main/Robot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№7_03.08_Robots,Composition/№1 Main/RobotCooker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№7_03.08_Robots,Composition/№1 Main/RobotCooker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№7_03.08_Robots,Composition/№1 Main/RobotDancer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№7_03.08_Robots,Composition/№1 Main/RobotDancer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№7_03.08_Robots,Composition/№2 Main/Body.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№7_03.08_Robots,Composition/№2 Main/Body.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№7_03.08_Robots,Composition/№2 Main/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№7_03.08_Robots,Composition/№2 Main/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№7_03.08_Robots,Composition/№2 Main/Helm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№7_03.08_Robots,Composition/№2 Main/Helm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№7_03.08_Robots,Composition/№2 Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№7_03.08_Robots,Composition/№2 Main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№7_03.08_Robots,Composition/№2 Main/Wheel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№7_03.08_Robots,Composition/№2 Main/Wheel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№7_03.08_Robots,Composition/№3 Main/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№7_03.08_Robots,Composition/№3 Main/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№7_03.08_Robots,Composition/№3 Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№7_03.08_Robots,Composition/№3 Main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№8_05.08_Abstract,Static/№1/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№8_05.08_Abstract,Static/№1/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№8_05.08_Abstract,Static/№1/Cow.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№8_05.08_Abstract,Static/№1/Cow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№8_05.08_Abstract,Static/№1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№8_05.08_Abstract,Static/№1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№8_05.08_Abstract,Static/№1/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№8_05.08_Abstract,Static/№1/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№8_05.08_Abstract,Static/№2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№8_05.08_Abstract,Static/№2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№8_05.08_Abstract,Static/№3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№8_05.08_Abstract,Static/№3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№8_05.08_Abstract,Static/№4/Constr.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№8_05.08_Abstract,Static/№4/Constr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№8_05.08_Abstract,Static/№4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№8_05.08_Abstract,Static/№4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№8_05.08_Abstract,Static/№5/Amphibia.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№8_05.08_Abstract,Static/№5/Amphibia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№8_05.08_Abstract,Static/№5/Frog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№8_05.08_Abstract,Static/№5/Frog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№8_05.08_Abstract,Static/№5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№8_05.08_Abstract,Static/№5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№9_07.08_Interface,Default&amp;Static/№1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№9_07.08_Interface,Default&amp;Static/№1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№9_07.08_Interface,Default&amp;Static/№1/Salary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№9_07.08_Interface,Default&amp;Static/№1/Salary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№9_07.08_Interface,Default&amp;Static/№1/WorkerHour.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№9_07.08_Interface,Default&amp;Static/№1/WorkerHour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№9_07.08_Interface,Default&amp;Static/№1/WorkerMonths.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№9_07.08_Interface,Default&amp;Static/№1/WorkerMonths.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№9_07.08_Interface,Default&amp;Static/№2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№9_07.08_Interface,Default&amp;Static/№2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№9_07.08_Interface,Default&amp;Static/№2/MyCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№9_07.08_Interface,Default&amp;Static/№2/MyCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№9_07.08_Interface,Default&amp;Static/№3/Divide.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№9_07.08_Interface,Default&amp;Static/№3/Divide.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№9_07.08_Interface,Default&amp;Static/№3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№9_07.08_Interface,Default&amp;Static/№3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№9_07.08_Interface,Default&amp;Static/№3/Minus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№9_07.08_Interface,Default&amp;Static/№3/Minus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№9_07.08_Interface,Default&amp;Static/№3/Multiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№9_07.08_Interface,Default&amp;Static/№3/Multiply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№9_07.08_Interface,Default&amp;Static/№3/Numerable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№9_07.08_Interface,Default&amp;Static/№3/Numerable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../№9_07.08_Interface,Default&amp;Static/№3/Plus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../№9_07.08_Interface,Default&amp;Static/№3/Plus.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hj7mgRXEb6QTQ2x37CLp8lUpGA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="442a1f4f-4cdc-45c1-a7c0-72bcf1e9882c" name="Default Changelist" comment="" />
+      <created>1600512808142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600512808142</updated>
+      <workItem from="1600512812618" duration="145000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
